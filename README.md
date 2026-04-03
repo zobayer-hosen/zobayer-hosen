@@ -36,12 +36,14 @@ As for the future? I trust the process.
 ---
 
 ## 🗺️ ML Learning Roadmap
-text
-Foundations        ████████████████████  Done
-Classical ML       ████████████████░░░░  80%
-Deep Learning      ████████████░░░░░░░░  60%
-MLOps & Deploy     ██████░░░░░░░░░░░░░░  30%
-Research & Papers  ████░░░░░░░░░░░░░░░░  20%
+
+| Skill | Progress | Level |
+|-------|----------|-------|
+| 🧱 Foundations & Math | `████████████████████` | ✅ Done |
+| 🤖 Classical ML | `████████████████░░░░` | 🔥 80% |
+| 🧠 Deep Learning | `████████████░░░░░░░░` | 📈 60% |
+| 🚀 MLOps & Deployment | `██████░░░░░░░░░░░░░░` | 🌱 30% |
+| 📄 Research & Papers | `████░░░░░░░░░░░░░░░░` | 🌱 20% |
 
 
 ---
@@ -68,14 +70,24 @@ Research & Papers  ████░░░░░░░░░░░░░░░░ 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zobayer-hosen&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zobayer-hosen&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=zobayer-hosen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&theme=tokyonight&hide_border=true&layout=donut&langs_count=8)
+
+![](https://nirzak-streak-stats.vercel.app/?user=zobayer-hosen&theme=tokyonight&hide_border=true&mode=weekly)
+
+</div>
 
 ---
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
 
 ---
 
@@ -108,6 +120,5 @@ That's the only metric that matters to me.
 [![](https://visitcount.itsvg.in/api?id=zobayer-hosen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
 
 ---
