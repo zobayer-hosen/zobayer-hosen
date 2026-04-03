@@ -73,11 +73,15 @@ As for the future? I trust the process.
 
 <div align="center">
 
-![](https://github-stats-alpha.vercel.app/api?username=zobayer-hosen&cc=000&tc=fff&ic=fff&bc=000)
+<img src="https://github-stats-alpha.vercel.app/api?username=zobayer-hosen&cc=000&tc=fff&ic=fff&bc=000" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&layout=compact&hide_border=true&theme=transparent)
+<br/><br/>
 
-![](https://streak-stats.demolab.com?user=zobayer-hosen&theme=transparent&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=zobayer-hosen&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&layout=donut&hide_border=true&theme=tokyonight&langs_count=8&border_radius=10" />
 
 </div>
 
@@ -87,10 +91,19 @@ As for the future? I trust the process.
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zobayer-hosen&theme=tokyo-night&hide_border=true&radius=8)
+
+</div>
 ---
 
 ### ✍️ Random Dev Quote
