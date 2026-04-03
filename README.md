@@ -1,20 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-- 🔭 I'm currently working on **Machine Learning projects**
-- 🌱 I'm currently learning **Machine Learning & Artificial Intelligence**
-- 👯 I'm looking to collaborate on **open-source ML/AI projects and research**
-- 🤔 I'm looking for help with **advanced deep learning architectures and real-world AI deployment**
-- 💬 Ask me about **Python, ML algorithms, data preprocessing, and model evaluation**
-- 📫 How to reach me: **via GitHub Issues or LinkedIn**
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: **I believe every dataset tells a story — you just need the right model to read it**
+![banner](https://raw.githubusercontent.com/zobayer-hosen/zobayer-hosen/main/banner.png)
+
+<h2>Hi 👋, I'm Zobayer</h2>
+<h4>A passionate ML enthusiast & final-year CSE student from Bangladesh 🇧🇩</h4>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+Enthusiast+%7C+CSE+Final+Year;I+learn+deep%2C+not+wide.;Allah+is+the+best+of+planners+🤲" alt="Typing SVG" />
+
+</div>
 
 ---
-
+---
 ## About Me 🧑‍💻
 
 I'm a final-year CSE student at **American International University-Bangladesh (AIUB)**, currently in my **10th semester**, with a deep interest in **Machine Learning** and **critical thinking**.
-
 I don't measure my days by how much I study —  
 I measure them by **how much I actually learned** and whether it made a **real impact**.
 
@@ -67,8 +66,6 @@ As for the future? I trust the process.
 | 📊 Data Pipelines | Building clean, reusable preprocessing workflows | 🔄 Ongoing |
 | 📝 Learning Notes | Documenting key ML concepts and paper summaries | 🌱 Starting |
 
----
-
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -77,11 +74,11 @@ As for the future? I trust the process.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=zobayer-hosen&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=zobayer-hosen&theme=transparent&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&layout=donut&hide_border=true&theme=tokyonight&langs_count=8&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
 </div>
 
@@ -91,7 +88,7 @@ As for the future? I trust the process.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
@@ -101,23 +98,13 @@ As for the future? I trust the process.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zobayer-hosen&theme=tokyo-night&hide_border=true&radius=8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zobayer-hosen&theme=github-compact&hide_border=true" />
 
 </div>
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zobayer-hosen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zobayer-hosen&theme=github-compact&hide_border=true)
 
 
 [![](https://visitcount.itsvg.in/api?id=zobayer-hosen&icon=0&color=0)](https://visitcount.itsvg.in)
