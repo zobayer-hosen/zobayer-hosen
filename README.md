@@ -104,21 +104,7 @@ As for the future? I trust the process.
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zobayer-hosen&theme=github-compact&hide_border=true)
 
----
-
-<details>
-<summary>🧠 My approach to learning ML</summary>
-<br>
-I focus on depth over breadth. Before touching a new framework or tool, I try to understand the math and intuition behind it. I'd rather truly understand one algorithm than superficially know ten.
-
-Every day I ask myself: *"Did I learn something that actually changed how I think?"*  
-That's the only metric that matters to me.
-</details>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=zobayer-hosen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
