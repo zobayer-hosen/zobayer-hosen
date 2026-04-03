@@ -73,9 +73,11 @@ As for the future? I trust the process.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=zobayer-hosen&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&theme=transparent&hide_border=true&layout=compact&langs_count=8)
+![](https://github-stats-alpha.vercel.app/api?username=zobayer-hosen&cc=000&tc=fff&ic=fff&bc=000)
 
-![](https://nirzak-streak-stats.vercel.app/?user=zobayer-hosen&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&layout=compact&hide_border=true&theme=transparent)
+
+![](https://streak-stats.demolab.com?user=zobayer-hosen&theme=transparent&hide_border=true)
 
 </div>
 
