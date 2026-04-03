@@ -73,19 +73,19 @@ As for the future? I trust the process.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=zobayer-hosen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&theme=tokyonight&hide_border=true&layout=donut&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=zobayer-hosen&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&theme=transparent&hide_border=true&layout=compact&langs_count=8)
 
-![](https://nirzak-streak-stats.vercel.app/?user=zobayer-hosen&theme=tokyonight&hide_border=true&mode=weekly)
+![](https://nirzak-streak-stats.vercel.app/?user=zobayer-hosen&theme=transparent&hide_border=true)
 
 </div>
 
 ---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
