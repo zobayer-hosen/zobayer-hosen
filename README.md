@@ -1,112 +1,126 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/zobayer-hosen/zobayer-hosen/main/banner.png)
+```
+███████╗ ██████╗ ██████╗  █████╗ ██╗   ██╗███████╗██████╗
+╚══███╔╝██╔═══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
+  ███╔╝ ██║   ██║██████╔╝███████║ ╚████╔╝ █████╗  ██████╔╝
+ ███╔╝  ██║   ██║██╔══██╗██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗
+███████╗╚██████╔╝██████╔╝██║  ██║   ██║   ███████╗██║  ██║
+╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
 
-<h2>Hi 👋, I'm Zobayer</h2>
-<h4>A passionate ML enthusiast & final-year CSE student from Bangladesh 🇧🇩</h4>
+### ML Enthusiast · Final-year CSE @ AIUB 🇧🇩
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+Enthusiast+%7C+CSE+Final+Year;I+learn+deep%2C+not+wide.;Allah+is+the+best+of+planners+🤲" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Machine+Learning+%26+AI;Critical+Thinker;Building+things+that+matter)](https://git.io/typing-svg)
 
 </div>
 
 ---
----
-## About Me 🧑‍💻
+
+## 🧑‍💻 About Me
 
 I'm a final-year CSE student at **American International University-Bangladesh (AIUB)**, currently in my **10th semester**, with a deep interest in **Machine Learning** and **critical thinking**.
-I don't measure my days by how much I study —  
-I measure them by **how much I actually learned** and whether it made a **real impact**.
 
-As for the future? I trust the process.  
-*Allah is the best of planners.* 🤲
+> *"I don't measure my days by how much I study —*
+> *I measure them by **how much I actually learned** and whether it made a **real impact**."*
+
+As for the future? I trust the process. *Allah is the best of planners.* 🤲
 
 ---
 
-### 🎯 Interests
-- Machine Learning & AI
-- Problem Solving & Critical Thinking
-- Building things that actually matter
+## 📌 Currently
 
-### 📍 Currently
 - 📖 Studying CSE @ AIUB — 10th Semester
 - 🔬 Exploring ML concepts & real-world applications
 - 🌱 Growing one meaningful lesson at a time
+- 👀 Open to collaboration on ML / AI projects
 
 ---
 
-## 🗺️ ML Learning Roadmap
+## 🎯 Interests
 
-| Skill | Progress | Level |
-|-------|----------|-------|
-| 🧱 Foundations & Math | `████████████████████` | ✅ Done |
-| 🤖 Classical ML | `████████████████░░░░` | 🔥 80% |
-| 🧠 Deep Learning | `████████████░░░░░░░░` | 📈 60% |
-| 🚀 MLOps & Deployment | `██████░░░░░░░░░░░░░░` | 🌱 30% |
-| 📄 Research & Papers | `████░░░░░░░░░░░░░░░░` | 🌱 20% |
-
+| Area | Details |
+|------|---------|
+| 🤖 ML & AI | Deep learning, model building, real-world applications |
+| 🧠 Critical Thinking | Problem decomposition, first-principles reasoning |
+| 🛠 Building | Projects that solve real problems, not just toy demos |
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1396004717729153124/1396004719859732524) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bandarcollegians.bandarcollegians) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zobayer116/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-zobayer-zobayer-45b642329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zobayer.aiub.cse@gmail.com)
+## 💻 Tech Stack
+
+### 🗣 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white)
+
+### 🧠 ML / Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=flat-square&logo=numpy&logoColor=blue)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=nVIDIA&logoColor=76B900)
+
+### 🌐 Backend / Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💡 What I'm Currently Building
-> A space where I document my ML journey — experiments, failures, and breakthroughs.
-
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🧠 ML Experiments | Hands-on implementation of classical & deep learning models | 🔄 Ongoing |
-| 📊 Data Pipelines | Building clean, reusable preprocessing workflows | 🔄 Ongoing |
-| 📝 Learning Notes | Documenting key ML concepts and paper summaries | 🌱 Starting |
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=zobayer-hosen&cc=000&tc=fff&ic=fff&bc=000" />
+<img height="160" src="https://github-stats-alpha.vercel.app/api?username=zobayer-hosen&cc=000&tc=fff&ic=fff&bc=000" />
+&nbsp;&nbsp;
+
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=zobayer-hosen&theme=transparent&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=zobayer-hosen&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobayer-hosen&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zobayer-hosen&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zobayer-hosen&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zobayer-zobayer-45b642329/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zobayer.aiub.cse@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zobayer116/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bandarcollegians.bandarcollegians)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1396004717729153124/1396004719859732524)
 
 </div>
 
 ---
-
-### 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zobayer-hosen&theme=github-compact&hide_border=true" />
-
+<img src="https://komarev.com/ghpvc/?username=zobayer-hosen&color=58a6ff&style=flat-square&label=Profile+Views" />
 </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zobayer-hosen&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-[![](https://visitcount.itsvg.in/api?id=zobayer-hosen&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
