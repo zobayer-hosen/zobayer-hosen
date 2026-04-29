@@ -17,36 +17,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a final-year CSE student at **American International University-Bangladesh (AIUB)**, currently in my **10th semester**, with a deep interest in **Machine Learning** and **critical thinking**.
-
-> *"I don't measure my days by how much I study —*
-> *I measure them by **how much I actually learned** and whether it made a **real impact**."*
-
-As for the future? I trust the process. *Allah is the best of planners.* 🤲
-
----
-
-## 📌 Currently
-
-- 📖 Studying CSE @ AIUB — 10th Semester
-- 🔬 Exploring ML concepts & real-world applications
-- 🌱 Growing one meaningful lesson at a time
-- 👀 Open to collaboration on ML / AI projects
-
----
-
-## 🎯 Interests
-
-| Area | Details |
-|------|---------|
-| 🤖 ML & AI | Deep learning, model building, real-world applications |
-| 🧠 Critical Thinking | Problem decomposition, first-principles reasoning |
-| 🛠 Building | Projects that solve real problems, not just toy demos |
-
----
-
 ## 💻 Tech Stack
 
 ### 🗣 Languages
